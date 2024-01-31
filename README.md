@@ -35,7 +35,7 @@ Briefly introduce your project, emphasizing its goal and how it involves data an
 
 
 # Clone the repository
-git clone https://github.com/Kishankumar1328/your-repo.git
+git clone https://github.com/Kishankumar1328/-data-analysics.git
 
 # Navigate to the project directory
 cd your-repo
